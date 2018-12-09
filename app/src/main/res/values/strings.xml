@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IncrementalUpdating</string>
+    <string name="updateBtnStr">incrementalUpdating</string>
+    <string name="current_version">currentVersion</string>
+</resources>
